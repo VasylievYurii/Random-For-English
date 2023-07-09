@@ -1,1 +1,2 @@
-import './partials/js/main';
+import './js/main';
+import './js/themes'

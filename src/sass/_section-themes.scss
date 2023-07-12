@@ -7,6 +7,7 @@
 .theme-form{
     display: flex;
     flex-wrap: wrap;
+	justify-content: space-around;
     gap:10px;
     margin-top: 10px;
     margin-bottom:10px;
@@ -19,7 +20,7 @@
 .random-theme{
     font-size: 3rem;
     font-weight: 600;
-    color:#2260ff;
+    color:var(--main-color);
 }
 
 .checkbox-group {
@@ -59,23 +60,23 @@
  
 
 	&:checked + .checkbox-tile {
-		border-color: #2260ff;
+		border-color: var(--main-color);
 		box-shadow: 0 5px 10px rgba(#000, 0.1);
-		color: #2260ff;
+		color: var(--main-color);
 		&:before {
 			transform: scale(1);
 			opacity: 1;
-			background-color: #2260ff;
-			border-color: #2260ff;
+			background-color: var(--main-color);
+			border-color: var(--main-color);
 		}
 		
 		.checkbox-icon, .checkbox-label {
-			color: #2260ff;
+			color: var(--main-color);
 		}
 	}
 	
 	&:focus + .checkbox-tile {
-		border-color: #2260ff;
+		border-color: var(--main-color);
 		box-shadow: 0 5px 10px rgba(#000, 0.1), 0 0 0 4px #b5c9fc;
 		&:before {
 			transform: scale(1);
@@ -120,7 +121,7 @@
 	}
 
 	&:hover {
-		border-color: #2260ff;
+		border-color: var(--main-color);
 		&:before {
 			transform: scale(1);
 			opacity: 1;
@@ -142,4 +143,11 @@
 	transition: .375s ease;
 	text-align: center;
     font-size: 0.8rem;
+}
+
+.btn-section{
+	display: flex;
+	justify-content:center;
+	gap:20px;
+
 }

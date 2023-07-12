@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "JavaScript",
+      "question": "What is the difference between 'undefined' and 'null' in JavaScript?"
+    },
+    {
+      "id": 2,
+      "category": "JavaScript",
+      "question": "What are the different data types present in JavaScript?"
+    },
+    {
+      "id": 3,
+      "category": "JavaScript",
+      "question": "How do you check if a variable is an array in JavaScript?"
+    },
+    {
+      "id": 4,
+      "category": "JavaScript",
+      "question": "What is the purpose of 'use strict' in JavaScript?"
+    },
+    {
+      "id": 5,
+      "category": "JavaScript",
+      "question": "What is a closure in JavaScript?"
+    },
+    {
+      "id": 6,
+      "category": "JavaScript",
+      "question": "Explain the concept of event delegation in JavaScript."
+    },
+    {
+      "id": 7,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'this' keyword in JavaScript?"
+    },
+    {
+      "id": 8,
+      "category": "JavaScript",
+      "question": "What is the difference between '==' and '===' in JavaScript?"
+    },
+    {
+      "id": 9,
+      "category": "JavaScript",
+      "question": "What is a callback function in JavaScript?"
+    },
+    {
+      "id": 10,
+      "category": "React",
+      "question": "What is React and what are its key features?"
+    },
+    {
+      "id": 11,
+      "category": "React",
+      "question": "What is JSX in React?"
+    },
+    {
+      "id": 12,
+      "category": "React",
+      "question": "What is the purpose of state in React?"
+    },
+    {
+      "id": 13,
+      "category": "React",
+      "question": "What are controlled components in React?"
+    },
+    {
+      "id": 14,
+      "category": "React",
+      "question": "What is the significance of keys in React lists?"
+    },
+    {
+      "id": 15,
+      "category": "React",
+      "question": "What is the purpose of 'componentWillUnmount' lifecycle method in React?"
+    },
+    {
+      "id": 16,
+      "category": "React",
+      "question": "What is the difference between functional components and class components in React?"
+    },
+    {
+      "id": 17,
+      "category": "React",
+      "question": "What is Redux and how does it work with React?"
+    },
+    {
+      "id": 18,
+      "category": "React",
+      "question": "What are React hooks and how do they work?"
+    },
+    {
+      "id": 19,
+      "category": "React",
+      "question": "Explain the concept of virtual DOM in React."
+    },
+    {
+      "id": 20,
+      "category": "JavaScript",
+      "question": "What is the 'this' binding in JavaScript?"
+    },
+    {
+      "id": 21,
+      "category": "JavaScript",
+      "question": "What is hoisting in JavaScript?"
+    },
+    {
+      "id": 22,
+      "category": "JavaScript",
+      "question": "Explain the concept of prototypal inheritance in JavaScript."
+    },
+    {
+      "id": 23,
+      "category": "JavaScript",
+      "question": "What are higher-order functions in JavaScript?"
+    },
+    {
+      "id": 24,
+      "category": "JavaScript",
+      "question": "How does JavaScript handle asynchronous programming?"
+    },
+    {
+      "id": 25,
+      "category": "JavaScript",
+      "question": "What are promises in JavaScript and how do they work?"
+    },
+    {
+      "id": 26,
+      "category": "JavaScript",
+      "question": "Explain the concept of lexical scoping in JavaScript."
+    },
+    {
+      "id": 27,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'new' keyword in JavaScript?"
+    },
+    {
+      "id": 28,
+      "category": "JavaScript",
+      "question": "What is the event loop in JavaScript?"
+    },
+    {
+      "id": 29,
+      "category": "JavaScript",
+      "question": "What is the difference between 'let', 'const', and 'var' in JavaScript?"
+    },
+    {
+      "id": 30,
+      "category": "React",
+      "question": "What are React fragments and why are they useful?"
+    },
+    {
+      "id": 31,
+      "category": "React",
+      "question": "What are React portals?"
+    },
+    {
+      "id": 32,
+      "category": "React",
+      "question": "What is the significance of the 'key' prop in React?"
+    },
+    {
+      "id": 33,
+      "category": "React",
+      "question": "What are React refs and when should they be used?"
+    },
+    {
+      "id": 34,
+      "category": "React",
+      "question": "What is the purpose of the 'useEffect' hook in React?"
+    },
+    {
+      "id": 35,
+      "category": "React",
+      "question": "Explain the concept of React context."
+    },
+    {
+      "id": 36,
+      "category": "React",
+      "question": "What is the difference between 'props' and 'state' in React?"
+    },
+    {
+      "id": 37,
+      "category": "React",
+      "question": "How can you optimize performance in React applications?"
+    },
+    {
+      "id": 38,
+      "category": "React",
+      "question": "What is the purpose of the 'useMemo' hook in React?"
+    },
+    {
+      "id": 39,
+      "category": "React",
+      "question": "What is the purpose of the 'useCallback' hook in React?"
+    },
+    {
+      "id": 40,
+      "category": "JavaScript",
+      "question": "Explain the concept of closures in JavaScript."
+    },
+    {
+      "id": 41,
+      "category": "JavaScript",
+      "question": "What is the difference between 'var', 'let', and 'const' in JavaScript?"
+    },
+    {
+      "id": 42,
+      "category": "JavaScript",
+      "question": "What are arrow functions in JavaScript and how do they differ from regular functions?"
+    },
+    {
+      "id": 43,
+      "category": "JavaScript",
+      "question": "What is event bubbling and how does it work in JavaScript?"
+    },
+    {
+      "id": 44,
+      "category": "JavaScript",
+      "question": "What are template literals in JavaScript?"
+    },
+    {
+      "id": 45,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'map' method in JavaScript arrays?"
+    },
+    {
+      "id": 46,
+      "category": "JavaScript",
+      "question": "What is the difference between 'let' and 'const' in JavaScript?"
+    },
+    {
+      "id": 47,
+      "category": "JavaScript",
+      "question": "What is the difference between 'map' and 'forEach' methods in JavaScript?"
+    },
+    {
+      "id": 48,
+      "category": "JavaScript",
+      "question": "Explain the concept of destructuring in JavaScript."
+    },
+    {
+      "id": 49,
+      "category": "JavaScript",
+      "question": "What are arrow functions in JavaScript and how do they differ from regular functions?"
+    },
+    {
+      "id": 50,
+      "category": "React",
+      "question": "What is the purpose of the 'useState' hook in React?"
+    },
+    {
+      "id": 51,
+      "category": "React",
+      "question": "What is the purpose of the 'useContext' hook in React?"
+    },
+    {
+      "id": 52,
+      "category": "React",
+      "question": "What is the purpose of the 'useReducer' hook in React?"
+    },
+    {
+      "id": 53,
+      "category": "React",
+      "question": "What are React components and how are they created?"
+    },
+    {
+      "id": 54,
+      "category": "React",
+      "question": "What is the purpose of the 'componentDidMount' lifecycle method in React?"
+    },
+    {
+      "id": 55,
+      "category": "React",
+      "question": "What are React prop types and how are they used?"
+    },
+    {
+      "id": 56,
+      "category": "React",
+      "question": "Explain the concept of React hooks rules and guidelines."
+    },
+    {
+      "id": 57,
+      "category": "React",
+      "question": "What are React synthetic events?"
+    },
+    {
+      "id": 58,
+      "category": "React",
+      "question": "What is the purpose of the 'useRef' hook in React?"
+    },
+    {
+      "id": 59,
+      "category": "React",
+      "question": "What is React Router and how does it work?"
+    },
+    {
+      "id": 60,
+      "category": "JavaScript",
+      "question": "What are rest parameters in JavaScript?"
+    },
+    {
+      "id": 61,
+      "category": "JavaScript",
+      "question": "What is the difference between '==' and '===' in JavaScript?"
+    },
+    {
+      "id": 62,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'apply' method in JavaScript?"
+    },
+    {
+      "id": 63,
+      "category": "JavaScript",
+      "question": "Explain the concept of promise chaining in JavaScript."
+    },
+    {
+      "id": 64,
+      "category": "JavaScript",
+      "question": "What are generators in JavaScript?"
+    },
+    {
+      "id": 65,
+      "category": "JavaScript",
+      "question": "What is the difference between 'find' and 'filter' methods in JavaScript arrays?"
+    },
+    {
+      "id": 66,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'reduce' method in JavaScript arrays?"
+    },
+    {
+      "id": 67,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'bind' method in JavaScript?"
+    },
+    {
+      "id": 68,
+      "category": "JavaScript",
+      "question": "What is the difference between 'call' and 'apply' methods in JavaScript?"
+    },
+    {
+      "id": 69,
+      "category": "React",
+      "question": "What is React Native and how does it differ from React?"
+    },
+    {
+      "id": 70,
+      "category": "React",
+      "question": "What is the purpose of the 'useEffect' hook in React?"
+    },
+    {
+      "id": 71,
+      "category": "React",
+      "question": "Explain the concept of React context and how it can be used for state management."
+    },
+    {
+      "id": 72,
+      "category": "React",
+      "question": "What are React error boundaries?"
+    },
+    {
+      "id": 73,
+      "category": "React",
+      "question": "What is the purpose of the 'memo' function in React?"
+    },
+    {
+      "id": 74,
+      "category": "React",
+      "question": "What are React portals and how are they used?"
+    },
+    {
+      "id": 75,
+      "category": "React",
+      "question": "What is the purpose of the 'useLayoutEffect' hook in React?"
+    },
+    {
+      "id": 76,
+      "category": "React",
+      "question": "What is the role of 'key' prop in React lists and why is it important?"
+    },
+    {
+      "id": 77,
+      "category": "JavaScript",
+      "question": "What is the difference between '==' and '===' operators in JavaScript?"
+    },
+    {
+      "id": 78,
+      "category": "JavaScript",
+      "question": "Explain the concept of event delegation in JavaScript."
+    },
+    {
+      "id": 79,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'typeof' operator in JavaScript?"
+    },
+    {
+      "id": 80,
+      "category": "JavaScript",
+      "question": "What are the different ways to create objects in JavaScript?"
+    },
+    {
+      "id": 81,
+      "category": "JavaScript",
+      "question": "Explain the concept of prototypal inheritance in JavaScript."
+    },
+    {
+      "id": 82,
+      "category": "JavaScript",
+      "question": "What is the difference between 'null' and 'undefined' in JavaScript?"
+    },
+    {
+      "id": 83,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'map' method in JavaScript?"
+    },
+    {
+      "id": 84,
+      "category": "JavaScript",
+      "question": "Explain the concept of hoisting in JavaScript."
+    },
+    {
+      "id": 85,
+      "category": "JavaScript",
+      "question": "What are higher-order functions in JavaScript?"
+    },
+    {
+      "id": 86,
+      "category": "JavaScript",
+      "question": "What is the purpose of the 'Promise' object in JavaScript?"
+    },
+    {
+      "id": 87,
+      "category": "JavaScript",
+      "question": "What is the difference between 'var', 'let', and 'const' in JavaScript?"
+    },
+    {
+      "id": 88,
+      "category": "JavaScript",
+      "question": "What are the different methods to handle asynchronous operations in JavaScript?"
+    },
+    {
+      "id": 89,
+      "category": "JavaScript",
+      "question": "Explain the concept of lexical scoping in JavaScript."
+    },
+    {
+      "id": 90,
+      "category": "React",
+      "question": "What are React keys and why are they important?"
+    },
+    {
+      "id": 91,
+      "category": "React",
+      "question": "What is the purpose of the 'useCallback' hook in React?"
+    },
+    {
+      "id": 92,
+      "category": "React",
+      "question": "What is the purpose of the 'useMemo' hook in React?"
+    },
+    {
+      "id": 93,
+      "category": "React",
+      "question": "What are React fragments and why are they useful?"
+    },
+    {
+      "id": 94,
+      "category": "React",
+      "question": "Explain the concept of React reconciliation."
+    },
+    {
+      "id": 95,
+      "category": "React",
+      "question": "What is the purpose of the 'useRef' hook in React?"
+    },
+    {
+      "id": 96,
+      "category": "React",
+      "question": "What is the significance of the 'key' prop in React?"
+    },
+    {
+      "id": 97,
+      "category": "React",
+      "question": "What are React controlled components?"
+    },
+    {
+      "id": 98,
+      "category": "React",
+      "question": "What is the purpose of the 'componentWillUnmount' lifecycle method in React?"
+    },
+    {
+      "id": 99,
+      "category": "React",
+      "question": "What is the purpose of the 'useEffect' hook in React?"
+    },
+    {
+      "id": 100,
+      "category": "React",
+      "question": "What are React synthetic events and how do they work?"
+    }
+  ]
+}

@@ -28,8 +28,8 @@ function addToList(e) {
 function markupList(el) {
   return `
 <li class="member" name="${el}">
-<span>${el}</span>
-<button type="button" class="delete-btn">Delete</button>
+<span class="member-name">${el}</span>
+<div class="delete-btn"/></div>
 </li>
 `;
 }

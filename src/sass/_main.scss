@@ -13,6 +13,17 @@
     width: 100%;
 
 }
+
+.member{
+    position: relative;
+}
+
+.member-name{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color:var(--main-color);
+
+}
 // .members-container{
 //     width: 100%;
 // }
@@ -24,3 +35,38 @@
 // @media screen and (min-width: 1280px) {
 
 // }
+
+.delete-btn {
+	position: absolute;
+    display: inline;
+	// top: 30px;
+	// right: 20px;
+	width: 16px;
+	height: 16px;
+	opacity: 0.2;
+	cursor: pointer;
+  transition: opacity ease 0.5s;
+
+	&:hover {
+		opacity: 1;
+	}
+}
+
+.delete-btn::before,
+.delete-btn::after {
+	content: '';
+	position: absolute;
+	top: 10px;
+	display: block;
+	width: 16px;
+	height: 2px;
+	background: #000;
+}
+
+.delete-btn::before {
+	transform: rotate(45deg);
+}
+
+.delete-btn::after {
+	transform: rotate(-45deg);
+}
